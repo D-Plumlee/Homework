@@ -1,0 +1,9 @@
+{
+	"title": "Chess Trivia",
+	"questions": ["What is castling?", "What is the difference between check and checkmate?", "How many spaces can a pawn move?", "How many queens can a player have?", "Where was chess invented?"],
+	"answers": ["Castling is when a king moves two spaces towards a rook, and the rook moves to the king's opposite side. Neither can move before castling, and there must be no pieces in between.",
+	 "Check means that there is a piece threatening to take the king, but the king can move to safety. Checkmate means there are no moves the king can take without being captured.",
+	  "Pawns can usually only move one space forward or one space diagonal to capture, but on their first move a pawn can move two spaces forward.",
+	   "Each player starts with one queen, but pawns that reach the end of the board can be promoted to additional queens. A player could have a possible nine queens.",
+	    "Chess is believed to have originated in India prior to the sixth century. It spread to Persia and the Arabs after gaining popularity."]
+}
